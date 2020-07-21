@@ -10,7 +10,7 @@ const SecondPage = () => (
     <h1>Hi from the second page</h1>
     <p>Welcome to page 2</p>
     <section id="test">
-      <h2>Test</h2>
+      <h2>Test 2</h2>
     </section>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
